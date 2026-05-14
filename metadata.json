@@ -1,6 +1,0 @@
-{
-  "name": "猜數字遊戲",
-  "description": "一個精美的 1-1000 猜數字遊戲，包含提示、次數記錄與動畫效果。",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
